@@ -1,0 +1,6 @@
+# Visual Studio local workspace files
+.vs/
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
